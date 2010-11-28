@@ -1,17 +1,20 @@
 LICENSE TERMS THAT APPLY TO ALL FILES IN 
-http://github.com/rajatarora
+http://github.com/rajatarora THAT CONTAIN A LINK TO 
+THIS DOCUMENT (https://github.com/rajatarora/BasicCAndDS/blob/master/LICENSE)
 
 1. This code is released free-of-charge, and as-is. No guarantees are hereby
    made towards the correctness and appropriateness of it.
    
 2. You can use, re-use, share, and modify this code in any way possible for use
-   in your projects - UNLESS you are a student and you study "Programming in C"
-   or "Data Structures using C" or any combination of the two courses.
+   in your projects, no attribution required, UNLESS you are a student and you 
+   study "Programming in C" or "Data Structures using C" or any combination of 
+   the two courses as part of your curriculum.
 
 3. If you are a student and you study "Programming in C" or "Data Structures 
-   using C" or any combination of the two courses, you are NOT allowed to use 
-   this code as-is in your classes - whether to execute it in your Laboratory or
-   to submit the code as part of your assignment, project, quiz etc., or to use
-   it in any way that undermines your academic honesty.
+   using C" or any combination of the two courses as part of your curriculum, 
+   you are NOT allowed to use this code as-is in your classes - whether to 
+   execute it in your Laboratory, or to submit the code as part of your 
+   assignment, project, quiz etc., or to use it in any way that undermines your 
+   academic honesty.
    However, you are encouraged to look at this code in order to learn the
-   concepts, and to make another version of the said code.
+   concepts, and to make another version of the said code yourself.
