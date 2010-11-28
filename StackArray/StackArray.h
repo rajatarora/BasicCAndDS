@@ -14,17 +14,17 @@
   *
   **/
  
-#define MAX 100					//Maximum members in the stack
-#define ERROR -32767			//Error condition constant
+#define MAX 100	/* Max Elements */				
+#define ERROR -32767 /* Error Condition */			
  
 typedef struct 
 {
-	int Array[MAX];				//The Array
-	int Top;					//Points to the topmost element
+	int Array[MAX];	 /* The Array */			
+	int Top; /* Points to the topmost element */					
 }Stack;
 
 /* Method Declarations */
-void init(Stack*);				//Initialize Stack->Top's value
-void push(Stack*,int);			//Push into
-int pop(Stack*);				//Pop out
-void display(Stack*);			//Display contents
+void init(Stack*);	/* Initialize Stack->Top to -1 */			
+void push(Stack*,int);	/* Push into */		
+int pop(Stack*); /* Pop out */				
+void display(Stack*); /* Display contents */			
