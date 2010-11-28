@@ -39,7 +39,7 @@ int main()
 		switch(choice)
 		{
 			case 1:
-				getch();
+				getch(); /* For catching the stray '\n' */
 				system("clear");
 				printf("PUSH\n\nEnter a value: ");
 				scanf("%d",&val);
@@ -76,6 +76,6 @@ int main()
 		}
 		while(getch()!='\n');
 	}while(choice!=4);
-	putchar('\n');
+	putchar('\n'); /* For inserting a newline before the next command prompt in bash */
 	return 0;
 }
